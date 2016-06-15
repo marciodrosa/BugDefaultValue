@@ -1,0 +1,11 @@
+# Unreal generated directories:
+Intermediate/
+Saved/
+
+# C++ and Visual Studio files:
+.vs/
+Binaries/
+Build/
+Intermediate/
+BugDefaultValue.sdf
+BugDefaultValue.VC.opendb
